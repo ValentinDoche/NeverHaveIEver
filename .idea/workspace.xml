@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9acb6eea-1337-46f1-b700-806921038e22" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="9acb6eea-1337-46f1-b700-806921038e22" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605363132859</updated>
-      <workItem from="1605363134348" duration="172000" />
+      <workItem from="1605363134348" duration="476000" />
     </task>
     <servers />
   </component>
@@ -68,9 +66,13 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605363272177">
+    <state x="798" y="440" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1605363600216">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605363272177" />
+    <state x="798" y="440" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605363600216" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1605363611215">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605363611215" />
   </component>
 </project>
